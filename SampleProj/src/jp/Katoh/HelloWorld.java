@@ -6,6 +6,7 @@ public class HelloWorld {
 		// TODO 自動生成されたメソッド・スタブ
 		//リモートリポジトリで編集
 		//fetch後にlocalで編集
+		//pushした後にlocalで編集
 
 	}
 
