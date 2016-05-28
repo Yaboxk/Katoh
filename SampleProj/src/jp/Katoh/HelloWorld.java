@@ -9,5 +9,5 @@ public class HelloWorld {
 		//pushした後にlocalで編集
 
 	}
-
+		//push後にgithubで編集（競合回避のため場所を移した）
 }
